@@ -1,0 +1,239 @@
+University-name,State,location,Control,number-of-students,male:female (ratio),student:faculty (ratio),sat-verbal,sat-math,expenses,percent-financial-aid,number-of-applicants,percent-admittance,percent-enrolled,academics,social,quality-of-life,categories,cat_label
+boston-college,massachusetts,1.0,1.0,7.5,0.16,10.5,0.71,0.71,10.0,0.6,11.5,0.5,0.4,4.0,5.0,3.0,1,business_and_comptability litterature sciences 
+boston-university,massachusetts,2.0,1.0,12.5,0.16,6.5,0.79,0.74,10.0,0.6,15.0,0.6,0.4,4.0,4.0,3.0,2,arts_and_history business_and_comptability communication_and_social 
+brown,rhodeisland,2.0,1.0,5.0,0.16,6.0,0.89,0.83,10.0,0.4,11.5,0.2,0.5,5.0,4.0,5.0,3,arts_and_history sciences 
+cal-tech,california,1.0,1.0,5.0,0.16,5.5,0.93,1.0,10.0,0.7,4.0,0.15,0.9,5.0,1.0,3.0,4,engineering 
+carnegie-mellon,pennsylvania,2.0,1.0,5.0,0.16,5.5,0.86,0.83,10.0,0.7,5.5,0.4,0.5,4.0,3.0,3.0,4,engineering 
+case-western,ohio,2.0,1.0,5.0,0.16,5.0,0.79,0.83,10.0,0.65,4.0,0.85,0.35,3.0,2.0,3.0,5,arts_and_history business_and_comptability sciences engineering 
+colgate,newyork,3.0,1.0,5.0,0.16,7.0,0.67,0.64,10.0,0.6,5.5,0.4,0.4,4.0,3.0,3.0,6,arts_and_history litterature sciences 
+columbia,newyork,2.0,1.0,5.0,0.16,5.0,0.89,0.83,10.0,0.6,5.5,0.3,0.5,5.0,3.0,3.0,7,arts_and_history 
+cooper-union,newyork,2.0,1.0,5.0,0.16,3.5,0.67,0.64,4.0,0.35,4.0,0.2,0.65,3.0,1.0,3.0,8,architectures arts_and_history engineering 
+cornell,newyork,4.0,1.0,12.5,0.16,4.0,0.86,0.83,10.0,0.5,17.0,0.3,0.5,5.0,3.0,2.0,9,architectures arts_and_history business_and_comptability sciences engineering 
+dartmouth,newhampshire,3.0,1.0,5.0,0.16,4.0,0.89,0.83,10.0,0.4,8.5,0.2,0.6,5.0,5.0,3.0,7,arts_and_history 
+florida-tech,florida,4.0,1.0,5.0,0.16,10.5,0.71,0.71,5.5,0.6,4.0,0.6,0.5,3.0,3.0,3.0,10,sciences engineering 
+georgia-tech,georgia,2.0,2.0,7.5,0.16,10.5,0.75,0.8,5.5,0.2,5.5,0.6,0.5,4.0,2.0,2.0,4,engineering 
+harvard,massachusetts,2.0,1.0,7.5,0.16,5.5,1.0,0.87,10.0,0.6,15.0,0.2,0.8,5.0,3.0,4.0,3,arts_and_history sciences 
+illinois-tech,illinois,2.0,2.0,5.0,0.16,13.0,0.64,0.74,5.5,0.65,4.0,0.5,0.6,3.0,1.0,3.0,11,architectures engineering 
+johns-hopkins,maryland,2.0,1.0,5.0,0.16,5.5,0.89,0.87,10.0,0.7,4.0,0.5,0.4,5.0,3.0,3.0,12,arts_and_history sciences communication_and_social engineering 
+mit,massachusetts,2.0,1.0,5.0,0.16,3.0,0.93,0.96,10.0,0.5,5.5,0.3,0.6,5.0,3.0,3.0,10,sciences engineering 
+university-of-montana,montana,4.0,2.0,5.0,0.16,11.0,0.67,0.64,5.5,0.65,4.0,0.9,0.6,3.0,2.0,4.0,4,engineering 
+morgan-state,maryland,2.0,2.0,5.0,0.16,7.0,0.43,0.42,4.0,0.51,4.0,0.7,0.5,2.0,2.0,2.0,13,business_and_comptability 
+new-jersey-tech,newjersey,2.0,2.0,5.0,0.16,13.0,0.64,0.74,5.5,0.65,4.0,0.5,0.6,3.0,1.0,3.0,11,architectures engineering 
+nyu,newyork,2.0,1.0,7.5,0.16,4.0,0.79,0.74,10.0,0.5,8.5,0.5,0.6,4.0,3.0,3.0,14,communication_and_social 
+pratt,newyork,2.0,1.0,5.0,0.16,4.0,0.61,0.61,5.5,0.8,4.0,0.5,0.6,3.0,1.0,2.0,15,architectures arts_and_history sciences engineering 
+princeton,newjersey,3.0,1.0,5.0,0.16,4.0,0.93,0.87,10.0,0.5,11.5,0.2,0.6,5.0,3.0,3.0,16,arts_and_history business_and_comptability sciences communication_and_social engineering 
+rensselaer,newyork,4.0,1.0,5.0,0.16,6.0,0.82,0.9,10.0,0.6,8.5,0.5,0.3,4.0,3.0,3.0,17,architectures business_and_comptability engineering 
+rochester-tech,newyork,1.0,1.0,7.5,0.16,7.5,0.75,0.74,8.5,0.6,8.5,0.7,0.5,3.0,3.0,3.0,5,arts_and_history business_and_comptability sciences engineering 
+stanford,california,1.0,1.0,7.5,0.16,5.5,0.89,0.87,10.0,0.45,15.0,0.2,0.7,5.0,4.0,5.0,18,arts_and_history business_and_comptability litterature sciences engineering 
+stevens,newjersey,2.0,1.0,5.0,0.16,7.0,0.71,0.8,8.5,0.65,4.0,0.6,0.4,3.0,2.0,4.0,4,engineering 
+temple,pennsylvania,2.0,2.0,17.5,0.16,6.0,0.68,0.64,5.5,0.6,11.5,0.7,0.6,2.0,2.0,2.0,19,business_and_comptability sciences 
+texas-a&m,texas,4.0,2.0,20.0,0.16,6.5,0.68,0.71,4.0,0.2,11.5,0.8,0.7,3.0,3.0,3.0,20,sciences 
+university-of-california-berkely,california,2.0,2.0,20.0,0.16,6.0,0.76,0.77,5.5,0.51,15.0,0.5,0.7,5.0,3.0,3.0,21,business_and_comptability litterature engineering 
+university-of-california-davis,california,4.0,2.0,12.5,0.16,8.0,0.71,0.71,5.5,0.4,8.5,0.7,0.7,4.0,3.0,4.0,22,business_and_comptability sciences communication_and_social 
+ucla,california,2.0,2.0,20.0,0.16,6.0,0.71,0.71,5.5,0.5,5.5,0.8,0.7,4.0,3.0,3.0,1,business_and_comptability litterature sciences 
+university-of-california-san-diego,california,1.0,2.0,7.5,0.16,8.0,0.79,0.77,5.5,0.25,5.5,0.8,0.65,4.0,4.0,4.0,10,sciences engineering 
+university-of-california-santa-cruz,california,1.0,2.0,7.5,0.16,9.5,0.75,0.71,5.5,0.65,4.0,0.7,0.6,4.0,3.0,5.0,23,arts_and_history sciences communication_and_social 
+university-of-maine,maine,3.0,2.0,12.5,0.16,8.0,0.71,0.64,5.5,0.7,5.5,0.9,0.5,2.0,4.0,3.0,7,arts_and_history 
+university-of-oklahoma,oklahoma,1.0,2.0,12.5,0.16,10.5,0.67,0.64,4.0,0.3,11.5,0.9,0.7,3.0,3.0,3.0,3,arts_and_history sciences 
+university-of-penn,pennsylvania,2.0,1.0,7.5,0.16,5.5,0.86,0.83,10.0,0.6,11.5,0.4,0.5,5.0,4.0,3.0,5,arts_and_history business_and_comptability sciences engineering 
+university-of-san-francisco,california,2.0,1.0,5.0,0.16,7.0,0.64,0.67,8.5,0.7,4.0,0.6,0.6,3.0,3.0,4.0,24,arts_and_history business_and_comptability sciences 
+usc,california,2.0,1.0,12.5,0.16,9.5,0.68,0.67,10.0,0.6,11.5,0.7,0.5,4.0,4.0,3.0,22,business_and_comptability sciences communication_and_social 
+worcester,massachusetts,2.0,1.0,5.0,0.16,6.5,0.79,0.83,10.0,0.7,4.0,0.5,0.5,4.0,3.0,4.0,4,engineering 
+yale,connecticut,4.0,1.0,5.0,0.16,3.0,0.96,0.87,10.0,0.4,11.5,0.2,0.6,5.0,3.0,4.0,6,arts_and_history litterature sciences 
+abilene-christian-university,texas,1.0,1.0,5.0,0.16,11.0,0.67,0.64,4.0,0.7,4.0,0.9,0.8,2.0,3.0,3.0,7,arts_and_history 
+brandeis0,massachusetts,1.0,1.0,5.0,0.16,5.0,0.83,0.78,10.0,0.5,4.0,0.7,0.4,4.0,4.0,3.0,25,architectures arts_and_history sciences communication_and_social 
+emory0,georgia,1.0,1.0,7.5,0.16,4.5,0.79,0.77,8.5,0.6,5.5,0.6,0.3,4.0,4.0,4.0,26,arts_and_history litterature sciences communication_and_social 
+georgetown1,district-of-columbia,2.0,1.0,7.5,0.16,8.5,0.88,0.83,10.0,0.45,8.5,0.3,0.5,4.0,5.0,5.0,7,arts_and_history 
+clark-university1,massachusetts,2.0,1.0,5.0,0.16,8.0,0.71,0.74,10.0,0.5,4.0,0.6,0.3,4.0,3.0,3.0,27,arts_and_history business_and_comptability litterature sciences 
+university-of-pittsburgh1,pennsylvania,2.0,2.0,17.5,0.16,6.0,0.71,0.71,5.5,0.9,5.5,0.8,0.5,3.0,2.0,2.0,28,arts_and_history sciences engineering 
+university-of-rochester1,newyork,2.0,1.0,7.5,0.16,5.5,0.79,0.8,10.0,0.8,5.5,0.7,0.3,4.0,3.0,3.0,5,arts_and_history business_and_comptability sciences engineering 
+university-of-washington1,washington,2.0,2.0,20.0,0.16,7.0,0.71,0.74,5.5,0.45,8.5,0.7,0.6,4.0,3.0,3.0,28,arts_and_history sciences engineering 
+brandeis1,massachusetts,1.0,1.0,5.0,0.16,5.5,0.83,0.79,10.0,0.45,4.0,0.75,0.35,4.0,3.0,3.0,3,arts_and_history sciences 
+huntington-college,indiana,4.0,1.0,5.0,0.16,7.0,0.64,0.64,5.5,0.9,4.0,0.9,0.65,3.0,4.0,3.0,27,arts_and_history business_and_comptability litterature sciences 
+tufts1,massachusetts,1.0,1.0,5.0,0.16,5.5,0.83,0.79,10.0,0.45,4.0,0.75,0.35,4.0,4.0,4.0,3,arts_and_history sciences 
+trinity-college,connecticut,2.0,1.0,5.0,0.16,5.0,0.8,0.77,10.0,0.85,4.0,0.45,0.35,4.0,3.0,4.0,29,sciences communication_and_social 
+university-of-portland,oregon,4.0,1.0,5.0,0.0,8.0,0.71,0.62,8.5,0.3,4.0,0.9,0.5,3.0,3.0,2.0,30,business_and_comptability engineering 
+florida-academic-university,florida,2.0,2.0,7.5,0.0,10.5,0.73,0.64,4.0,0.7,4.0,0.8,0.6,2.0,5.0,4.0,7,arts_and_history 
+bennington0,vermont,3.0,1.0,5.0,1.0,5.0,0.67,0.64,10.0,0.5,4.0,0.8,0.55,4.0,5.0,4.0,7,arts_and_history 
+juilliard0,newyork,2.0,1.0,5.0,0.0,3.0,0.67,0.64,5.5,0.9,4.0,0.5,0.95,4.0,4.0,2.0,7,arts_and_history 
+mesa,colorado,4.0,2.0,5.0,0.02,10.5,0.67,0.64,4.0,0.6,4.0,0.95,0.55,2.0,3.0,3.0,22,business_and_comptability sciences communication_and_social 
+hampshire-college1,massachusetts,3.0,1.0,5.0,0.02,7.5,0.79,0.69,10.0,0.35,4.0,0.75,0.5,3.0,4.0,3.0,6,arts_and_history litterature sciences 
+rutgers2,newjersey,2.0,1.0,7.5,0.13,9.0,0.77,0.63,8.5,0.55,11.5,0.55,0.35,3.0,2.0,2.0,24,arts_and_history business_and_comptability sciences 
+university-of-pennsylvania1,pennsylvania,2.0,1.0,7.5,0.15,4.0,0.97,0.82,10.0,0.4,15.0,0.4,0.5,5.0,3.0,3.0,24,arts_and_history business_and_comptability sciences 
+university-of-georgia1,georgia,3.0,2.0,12.5,0.0,10.5,0.7,0.68,4.0,0.4,5.5,0.7,0.5,2.0,4.0,5.0,31,business_and_comptability communication_and_social 
+golden-gate-college,california,2.0,1.0,5.0,0.02,10.5,0.71,0.64,4.0,0.25,4.0,1.0,0.5,2.0,1.0,1.0,32,business_and_comptability litterature 
+augsburg,minnesota,3.0,1.0,5.0,0.04,5.5,0.6,0.63,4.0,0.8,4.0,0.85,0.5,1.0,3.0,4.0,33,arts_and_history business_and_comptability litterature 
+vanderbilt,tennessee,2.0,1.0,7.5,0.0,4.0,0.79,0.77,8.5,0.35,5.5,0.6,0.25,4.0,3.0,4.0,34,litterature sciences 
+university-of-alabama,alabama,4.0,2.0,17.5,0.16,9.0,0.67,0.69,4.0,0.5,5.5,0.7,0.5,2.0,4.0,4.0,35,business_and_comptability litterature sciences communication_and_social engineering 
+auburn,alabama,3.0,2.0,17.5,0.03,9.5,0.69,0.7,4.0,0.5,5.5,0.9,0.6,2.0,4.0,4.0,35,business_and_comptability litterature sciences communication_and_social engineering 
+georgetown2,district-of-columbia,2.0,1.0,7.5,0.16,7.5,0.89,0.81,8.5,0.3,8.5,0.3,0.1,4.0,4.0,4.0,36,business_and_comptability litterature sciences communication_and_social 
+washington-and-lee0,virginia,3.0,1.0,5.0,0.16,6.0,0.8,0.76,8.5,0.3,4.0,0.5,0.3,4.0,4.0,4.0,37,business_and_comptability litterature communication_and_social 
+rutgers3,newjersey,2.0,2.0,20.0,0.16,20.5,0.66,0.65,4.0,0.2,5.5,0.7,0.5,4.0,3.0,4.0,38,sciences communication_and_social engineering 
+queens,newyork,2.0,2.0,17.5,0.16,9.5,0.64,0.58,4.0,0.5,5.5,0.7,0.5,4.0,3.0,3.0,19,business_and_comptability sciences 
+baruch,newyork,2.0,2.0,12.5,0.16,8.0,0.64,0.51,4.0,0.8,5.5,0.6,0.5,3.0,2.0,3.0,13,business_and_comptability 
+rensselaer0,newyork,1.0,1.0,7.5,0.16,5.5,0.81,0.88,8.5,0.4,5.5,0.5,0.4,3.0,3.0,4.0,4,engineering 
+nicholls-state,louisiana,1.0,2.0,5.0,0.16,10.5,0.67,0.64,4.0,0.9,4.0,1.0,0.7,2.0,3.0,3.0,33,arts_and_history business_and_comptability litterature 
+boston-college0,massachusetts,1.0,1.0,12.5,0.16,8.5,0.72,0.71,8.5,0.55,11.5,0.3,0.2,4.0,5.0,4.0,7,arts_and_history 
+touro,newyork,2.0,1.0,5.0,0.16,8.0,0.74,0.63,5.5,0.9,4.0,0.6,0.3,3.0,2.0,4.0,39,arts_and_history litterature 
+eastern-michigan,michigan,1.0,2.0,12.5,0.16,10.5,0.67,0.64,5.5,0.65,5.5,0.7,0.3,2.0,3.0,3.0,3,arts_and_history sciences 
+suny-stony-brook2,newyork,1.0,2.0,12.5,0.16,5.5,0.69,0.72,4.0,0.5,5.5,0.6,0.3,4.0,4.0,4.0,20,sciences 
+georgetown,maryland,2.0,1.0,12.5,0.16,6.973684210526316,0.86,0.79,10.0,0.5,8.5,0.3,0.7,4.0,3.0,3.0,40,arts_and_history sciences communication_and_social sport 
+oregon-state0,oregon,2.0,2.0,17.5,0.16,6.5,0.64,0.87,4.0,0.4,5.5,0.9,0.85,3.0,3.0,3.0,3,arts_and_history sciences 
+university-of-pittsburgh,pennsylvania,2.0,2.0,20.0,0.16,6.5,0.69,0.68,4.0,0.51,8.5,0.75,0.55,3.0,3.0,3.0,6,arts_and_history litterature sciences 
+university-of-missouri,missouri,2.0,1.0,12.5,0.16,6.0,0.71,0.68,5.5,0.3,4.0,0.65,0.65,2.0,3.0,3.0,20,sciences 
+university-of-kansas,kansas,3.0,2.0,20.0,0.16,8.5,0.69,0.59,8.5,0.5,11.5,0.8,0.5,4.0,3.0,5.0,41,business_and_comptability communication_and_social engineering 
+university-of-evansville,indiana,4.0,1.0,7.5,0.16,8.0,0.65,0.66,10.0,0.55,4.0,0.8,0.5,3.0,5.0,4.0,42,business_and_comptability sciences engineering 
+university-of-lowell,massachusetts,2.0,2.0,7.5,0.16,8.5,0.67,0.69,5.5,0.65,5.5,0.6,0.3,3.0,3.0,3.0,43,litterature sciences engineering 
+oklahoma-state-university,oklahoma,3.0,2.0,20.0,0.16,10.5,0.67,0.6,8.5,0.5,11.5,0.8,0.4,4.0,3.0,4.0,42,business_and_comptability sciences engineering 
+polytechnic-institute-of-newyork1,newyork,2.0,1.0,5.0,0.16,4.5,0.86,0.77,10.0,0.8,8.5,0.75,0.45,3.0,2.0,2.0,5,arts_and_history business_and_comptability sciences engineering 
+tufts0,massachusetts,1.0,1.0,7.5,0.16,7.5,0.86,0.77,10.0,0.45,11.5,0.35,0.4,4.0,3.0,3.0,28,arts_and_history sciences engineering 
+rutgers1,newjersey,3.0,2.0,20.0,0.03,11.5,0.66,0.65,4.0,0.1,17.0,0.7,0.5,3.0,3.0,3.0,5,arts_and_history business_and_comptability sciences engineering 
+seton-hall,newjersey,3.0,1.0,12.5,0.16,14.5,0.61,0.58,5.5,0.6,17.0,0.65,0.45,3.0,3.0,3.0,33,arts_and_history business_and_comptability litterature 
+university-of-pittsburgh0,pennsylvania,2.0,2.0,20.0,0.16,50.5,0.79,0.71,4.0,0.5,17.0,0.7,0.3,3.0,5.0,4.0,13,business_and_comptability 
+barnard,newyork,2.0,1.0,5.0,0.16,4.5,0.9,0.78,10.0,0.6,4.0,0.6,0.2,4.0,3.0,4.0,24,arts_and_history business_and_comptability sciences 
+university-of-massachusetts-amherst0,massachusetts,3.0,2.0,20.0,0.16,9.5,0.69,0.65,4.0,0.6,11.5,0.8,0.2,3.0,3.0,3.0,18,arts_and_history business_and_comptability litterature sciences engineering 
+fordham,newyork,2.0,1.0,7.5,0.16,9.0,0.75,0.69,5.5,0.7,5.5,0.6,0.45,3.0,3.0,3.0,31,business_and_comptability communication_and_social 
+marist-college,newyork,1.0,1.0,5.0,0.16,9.5,0.71,0.64,8.5,0.85,4.0,0.4,0.6,3.0,3.0,3.0,34,litterature sciences 
+hampshire-college,massachusetts,3.0,1.0,5.0,0.2,8.0,0.79,0.69,8.5,0.2,4.0,0.75,0.4,3.0,5.0,5.0,7,arts_and_history 
+hampshire-college0,massachusetts,3.0,1.0,5.0,0.2,8.0,0.79,0.69,8.5,0.2,4.0,0.75,0.4,3.0,5.0,5.0,7,arts_and_history 
+fordham1,newyork,2.0,1.0,17.5,0.0,9.0,0.75,0.71,8.5,0.85,5.5,0.65,0.3,3.0,5.0,3.0,7,arts_and_history 
+st-johns-u,newyork,2.0,1.0,12.5,0.03,9.5,0.67,0.65,5.5,0.75,5.5,0.75,0.35,2.0,3.0,2.0,33,arts_and_history business_and_comptability litterature 
+university-of-chicago0,illinois,2.0,1.0,7.5,0.01,4.5,0.88,0.82,8.5,0.6,4.0,0.7,0.25,5.0,4.0,4.0,44,sciences communication_and_social sport 
+fordham0,newyork,2.0,1.0,17.5,0.16,9.0,0.75,0.71,5.5,0.85,5.5,0.7,0.4,4.0,3.0,3.0,37,business_and_comptability litterature communication_and_social 
+newyorkit,newyork,3.0,1.0,12.5,0.16,10.5,0.59,0.6,5.5,0.75,4.0,0.8,0.5,2.0,3.0,2.0,45,business_and_comptability litterature sciences engineering 
+reed,oregon,1.0,1.0,5.0,0.16,5.5,0.89,0.8,10.0,0.4,4.0,0.8,0.4,4.0,3.0,4.0,34,litterature sciences 
+suny-albany0,newyork,2.0,2.0,17.5,0.16,10.0,0.75,0.76,5.5,0.75,15.0,0.5,0.35,3.0,3.0,4.0,22,business_and_comptability sciences communication_and_social 
+suny-binghamton0,newyork,2.0,2.0,7.5,0.13,10.0,0.75,0.76,5.5,0.85,11.5,0.45,0.4,3.0,4.0,3.0,45,business_and_comptability litterature sciences engineering 
+lesley,massachusetts,2.0,1.0,5.0,0.16,6.973684210526316,0.6,0.51,5.5,0.4,4.0,0.7,0.5,2.0,3.0,4.0,46,litterature 
+university-of-puget-sound,washington,2.0,1.0,5.0,0.16,6.973684210526316,0.73,0.7,5.5,0.7,4.0,0.8,0.4,3.0,4.0,2.0,13,business_and_comptability 
+northwestern0,illinois,4.0,1.0,12.5,0.16,6.973684210526316,0.86,0.85,10.0,0.6,8.5,0.5,0.5,4.0,3.0,4.0,12,arts_and_history sciences communication_and_social engineering 
+emory,georgia,2.0,1.0,7.5,0.16,6.973684210526316,0.79,0.77,10.0,0.35,5.5,0.35,0.3,4.0,4.0,4.0,22,business_and_comptability sciences communication_and_social 
+yale0,connecticut,4.0,1.0,12.5,0.16,9.0,0.88,0.85,10.0,0.25,8.5,0.2,0.6,5.0,3.0,2.0,26,arts_and_history litterature sciences communication_and_social 
+university-of-bridgeport,connecticut,4.0,1.0,5.0,0.16,10.5,0.62,0.63,10.0,0.35,4.0,0.8,0.25,1.0,4.0,4.0,47,architectures business_and_comptability sciences engineering 
+bard,newyork,3.0,1.0,5.0,0.16,5.0,0.8,0.67,10.0,0.8,4.0,0.7,0.3,3.0,4.0,4.0,7,arts_and_history 
+drew,newjersey,1.0,1.0,5.0,0.16,8.0,0.76,0.71,8.5,0.5,4.0,0.7,0.3,3.0,3.0,3.0,7,arts_and_history 
+georgetown0,district-of-columbia,2.0,1.0,12.5,0.16,7.0,0.88,0.83,10.0,0.5,8.5,0.3,0.5,5.0,3.0,4.0,7,arts_and_history 
+swarthmore,pennsylvania,1.0,1.0,5.0,0.16,5.5,0.89,0.85,10.0,0.5,4.0,0.5,0.4,5.0,3.0,4.0,7,arts_and_history 
+mount-holyoke,massachusetts,4.0,1.0,5.0,0.16,4.5,0.87,0.76,8.5,0.6,11.5,0.5,0.5,4.0,3.0,4.0,29,sciences communication_and_social 
+university-of-texas1,texas,2.0,2.0,20.0,0.16,6.5,0.69,0.69,5.5,0.4,17.0,0.8,0.6,3.0,4.0,4.0,30,business_and_comptability engineering 
+tulane,louisiana,2.0,1.0,7.5,0.16,6.0,0.79,0.76,5.5,0.3,17.0,0.8,0.3,3.0,5.0,4.0,38,sciences communication_and_social engineering 
+texas-christian-university,texas,4.0,1.0,7.5,0.16,8.0,0.74,0.66,8.5,0.6,4.0,0.7,0.8,3.0,3.0,4.0,3,arts_and_history sciences 
+oregon-institute-of-technology,oregon,1.0,2.0,5.0,0.01,7.5,0.58,0.57,5.5,0.15,4.0,0.8,0.6,3.0,2.0,2.0,42,business_and_comptability sciences engineering 
+san-jose-state,california,2.0,2.0,7.5,0.16,6.973684210526316,0.61,0.6,4.0,0.2,5.5,0.6,0.5,4.0,2.0,3.0,48,architectures arts_and_history communication_and_social engineering 
+university-of-chicago,illinois,2.0,1.0,7.5,0.16,6.973684210526316,0.89,0.82,8.5,0.6,4.0,0.4,0.2,4.0,3.0,3.0,19,business_and_comptability sciences 
+bryn-mawr,pennsylvania,1.0,1.0,5.0,0.16,6.973684210526316,0.91,0.78,8.5,0.3,4.0,0.5,0.3,3.0,2.0,3.0,23,arts_and_history sciences communication_and_social 
+oberlin,ohio,1.0,1.0,5.0,0.16,6.973684210526316,0.79,0.71,8.5,0.5,4.0,0.7,0.3,3.0,3.0,2.0,7,arts_and_history 
+university-of-texas,texas,4.0,2.0,20.0,0.16,8.0,0.43,0.38,4.0,0.4,17.0,0.6,0.6,3.0,5.0,5.0,49,arts_and_history engineering 
+corpus-christi-state-u,texas,4.0,2.0,5.0,0.16,6.5,0.36,0.32,4.0,0.4,4.0,0.8,0.7,1.0,3.0,3.0,13,business_and_comptability 
+university-of-pennsylvania0,pennsylvania,2.0,1.0,17.5,0.01,5.5,0.87,0.85,8.5,0.51,11.5,0.4,0.5,3.389473684210526,3.0736842105263156,3.1649122807017545,50,arts_and_history business_and_comptability engineering 
+villanova,pennsylvania,1.0,1.0,12.5,0.01,7.5,0.75,0.75,5.5,0.51,8.5,0.6,0.4,3.389473684210526,3.0736842105263156,3.1649122807017545,5,arts_and_history business_and_comptability sciences engineering 
+glassboro-state-college,newjersey,3.0,2.0,7.5,0.01,9.5,0.63,0.6,4.0,0.51,5.5,0.5,0.5,3.389473684210526,3.0736842105263156,3.1649122807017545,51,arts_and_history business_and_comptability 
+saint-elizabeths,newjersey,3.0,1.0,5.0,0.16,5.5,0.61,0.56,5.5,0.51,5.5,0.9,0.5,3.389473684210526,3.0736842105263156,3.1649122807017545,24,arts_and_history business_and_comptability sciences 
+juilliard,newyork,2.0,1.0,5.0,0.16,4.0,0.67,0.64,10.0,0.7,8.5,0.15,0.8,1.0,1.0,2.0,7,arts_and_history 
+eastman-school-of-music,newyork,2.0,1.0,5.0,0.16,4.0,0.57,0.51,10.0,0.4,5.5,0.15,0.7,3.0,4.0,4.0,39,arts_and_history litterature 
+butler,indiana,2.0,1.0,5.0,0.16,8.0,0.71,0.68,8.5,0.75,4.0,0.8,0.4,3.0,3.0,3.0,39,arts_and_history litterature 
+syracuse,newyork,4.0,1.0,12.5,0.16,7.5,0.76,0.72,10.0,0.6,7.371929824561404,0.0,0.0,4.0,4.0,4.0,52,arts_and_history communication_and_social 
+rutgers,newjersey,3.0,2.0,7.5,0.16,8.5,0.79,0.77,5.5,0.4,11.5,0.5,0.3,4.0,3.0,3.0,53,arts_and_history sciences communication_and_social sport engineering 
+university-of-minnesota,minnesota,2.0,2.0,20.0,0.16,8.5,0.7,0.71,4.0,0.5,8.5,0.8,0.6,4.0,3.0,4.0,10,sciences engineering 
+university-of-maryland,maryland,1.0,2.0,20.0,0.16,8.5,0.67,0.68,4.0,0.5,15.0,0.6,0.5,3.0,3.0,3.0,52,arts_and_history communication_and_social 
+northwestern,illinois,4.0,1.0,12.5,0.16,5.0,0.84,0.81,10.0,0.65,8.5,0.45,0.45,4.0,3.0,3.0,26,arts_and_history litterature sciences communication_and_social 
+syracuse0,newyork,1.0,1.0,12.5,0.16,7.5,0.76,0.72,8.5,0.55,4.0,0.7,0.3,3.0,3.0,3.0,54,architectures sciences communication_and_social 
+michigan-state,michigan,2.0,2.0,20.0,0.16,13.0,0.64,0.64,4.0,0.1,17.0,0.9,0.5,2.0,4.0,4.0,43,litterature sciences engineering 
+university-of-michigan1,michigan,4.0,2.0,20.0,0.16,10.5,0.83,0.85,5.5,0.3,15.0,0.6,0.7,5.0,5.0,5.0,55,arts_and_history litterature sciences engineering 
+monmouth-college,newjersey,1.0,1.0,5.0,0.16,8.0,0.71,0.71,8.5,0.6,4.0,0.8,0.4,3.0,3.0,4.0,5,arts_and_history business_and_comptability sciences engineering 
+clarkson-university,newyork,4.0,1.0,5.0,0.16,10.5,0.76,0.82,10.0,0.8,4.0,0.7,0.3,3.0,3.0,4.0,30,business_and_comptability engineering 
+clark-university0,massachusetts,2.0,1.0,5.0,0.16,7.5,0.79,0.74,10.0,0.5,4.0,0.6,0.3,4.0,4.0,4.0,23,arts_and_history sciences communication_and_social 
+colorado-college,colorado,2.0,1.0,5.0,0.02,7.5,0.86,0.77,8.5,0.4,4.0,0.3,0.0,3.0,3.0,4.0,19,business_and_comptability sciences 
+suny-plattsburgh,newyork,3.0,2.0,7.5,0.01,7.5,0.86,0.77,8.5,0.6,5.5,0.4,0.2,3.0,4.0,4.0,24,arts_and_history business_and_comptability sciences 
+chalmers-university-of-technology,foreign,2.0,2.0,7.5,0.16,5.5,0.67,0.64,4.0,1.0,5.5,0.2,0.9,4.0,5.0,5.0,17,architectures business_and_comptability engineering 
+gothenburg-university,foreign,2.0,2.0,12.5,0.16,8.0,0.67,0.64,4.0,1.0,11.5,0.3,0.7,3.0,3.0,3.0,56,arts_and_history business_and_comptability sciences communication_and_social 
+university-of-tulsa0,oklahoma,1.0,1.0,5.0,0.16,8.5,0.7,0.68,4.0,0.5,4.0,0.8,0.4,3.0,4.0,4.0,7,arts_and_history 
+university-of-denver,colorado,1.0,2.0,5.0,0.16,7.5,0.73,0.69,5.5,0.5,4.0,0.7,0.5,3.0,3.0,3.0,13,business_and_comptability 
+holy-cross,massachusetts,4.0,1.0,5.0,0.16,5.5,0.86,0.74,8.5,0.51,7.371929824561404,0.0,0.0,3.0,3.0,4.0,57,arts_and_history business_and_comptability litterature sciences communication_and_social 
+bucknell,pennsylvania,3.0,1.0,5.0,0.16,4.5,0.86,0.64,8.5,0.75,5.5,0.35,0.15,4.0,3.0,3.0,57,arts_and_history business_and_comptability litterature sciences communication_and_social 
+university-of-the-pacific,california,2.0,1.0,7.5,0.16,9.0,0.8,0.71,10.0,0.65,4.0,0.8,0.4,3.0,4.0,4.0,27,arts_and_history business_and_comptability litterature sciences 
+university-of-the-south0,tennessee,1.0,1.0,5.0,0.16,5.5,0.77,0.72,8.5,0.4,4.0,0.75,0.5,3.0,3.0,3.0,34,litterature sciences 
+university-of-toledo,ohio,2.0,2.0,17.5,0.16,10.5,0.64,0.58,4.0,0.75,5.5,0.95,0.7,1.0,2.0,2.0,27,arts_and_history business_and_comptability litterature sciences 
+university-of-the-district-of-columbia,district-of-columbia,2.0,2.0,7.5,0.16,7.5,0.71,0.65,4.0,0.3,4.0,0.95,0.8,2.0,2.0,2.0,27,arts_and_history business_and_comptability litterature sciences 
+university-of-southdakota,southdakota,1.0,2.0,5.0,0.16,10.0,0.03,0.03,4.0,0.85,4.0,0.8,0.8,2.0,3.0,3.0,24,arts_and_history business_and_comptability sciences 
+yanktown-college,southdakota,1.0,1.0,5.0,0.16,5.5,0.64,0.51,5.5,0.95,4.0,0.95,0.9,1.0,2.0,2.0,22,business_and_comptability sciences communication_and_social 
+baylor-university,texas,2.0,1.0,7.5,0.96,11.0,0.69,0.67,5.5,0.65,11.5,0.65,0.75,4.0,4.0,3.0,58,litterature sciences communication_and_social 
+dallas-baptist-college,texas,1.0,1.0,5.0,0.16,10.0,0.02,0.02,4.0,0.65,4.0,1.0,0.4,1.0,2.0,2.0,58,litterature sciences communication_and_social 
+suny-buffalo,newyork,2.0,2.0,20.0,0.16,7.5,0.64,0.67,5.5,0.5,11.5,0.9,0.3,4.0,2.0,2.0,59,architectures arts_and_history business_and_comptability litterature sciences communication_and_social engineering 
+suny-albany,newyork,1.0,2.0,17.5,0.16,10.0,0.75,0.74,5.5,0.8,15.0,0.6,0.3,4.0,3.0,3.0,6,arts_and_history litterature sciences 
+ohio-state,ohio,2.0,2.0,20.0,0.16,8.5,0.64,0.64,5.5,0.3,17.0,0.9,0.65,4.0,4.0,3.0,60,arts_and_history business_and_comptability litterature sciences communication_and_social engineering 
+penn-state1,pennsylvania,3.0,2.0,20.0,0.16,10.5,0.71,0.71,5.5,0.51,11.5,0.6,0.55,3.0,5.0,3.0,61,architectures arts_and_history business_and_comptability litterature sciences communication_and_social sport engineering 
+rutgers0,newjersey,4.0,2.0,20.0,0.16,8.5,0.68,0.67,5.5,0.5,17.0,0.55,0.3,4.0,3.0,3.0,4,engineering 
+suny-stony-brook0,newyork,1.0,2.0,12.5,0.16,8.0,0.71,0.74,4.0,0.75,11.5,0.7,0.3,4.0,3.0,2.0,34,litterature sciences 
+university-of-northcarolina,northcarolina,4.0,2.0,20.0,0.01,7.5,0.73,0.71,5.5,0.51,17.0,0.0,0.8,3.0,4.0,4.0,57,arts_and_history business_and_comptability litterature sciences communication_and_social 
+northcarolina-state-university,northcarolina,2.0,2.0,20.0,0.02,7.5,0.67,0.69,5.5,0.51,4.0,0.0,0.0,2.0,3.0,3.0,62,litterature sciences communication_and_social engineering 
+bryn-mawr0,pennsylvania,3.0,1.0,5.0,0.16,4.5,0.86,0.77,10.0,0.7,4.0,0.6,0.5,5.0,4.0,4.0,26,arts_and_history litterature sciences communication_and_social 
+walla-walla-college,washington,3.0,1.0,5.0,0.16,5.5,0.57,0.51,8.5,0.7,4.0,0.7,0.6,2.0,2.0,3.0,39,arts_and_history litterature 
+vassar,newyork,3.0,1.0,5.0,0.16,3.0,0.86,0.77,10.0,0.5,4.0,0.5,0.4,5.0,4.0,4.0,39,arts_and_history litterature 
+college-of-newrochelle,newyork,3.0,1.0,5.0,0.16,8.0,0.86,0.77,5.5,0.8,4.0,0.7,0.4,2.0,2.0,3.0,58,litterature sciences communication_and_social 
+university-of-massachusetts-amherst,massachusetts,3.0,2.0,20.0,0.16,9.5,0.68,0.67,5.5,0.4,15.0,0.7,0.45,3.0,5.0,4.0,42,business_and_comptability sciences engineering 
+university-of-virginia0,virginia,4.0,2.0,12.5,0.16,6.0,0.82,0.8,5.5,0.3,11.5,0.35,0.6,4.0,4.0,5.0,63,architectures arts_and_history business_and_comptability engineering 
+syracuse1,newyork,2.0,1.0,20.0,0.16,10.5,0.86,0.77,10.0,0.4,11.5,0.7,0.4,4.0,4.0,4.0,4,engineering 
+university-of-notre-dame,indiana,2.0,1.0,7.5,0.16,6.0,0.86,0.77,8.5,0.5,5.5,0.5,0.6,4.0,4.0,4.0,36,business_and_comptability litterature sciences communication_and_social 
+university-of-colorado,colorado,4.0,2.0,20.0,0.16,8.5,0.71,0.71,8.5,0.6,15.0,0.7,0.6,3.0,5.0,5.0,28,arts_and_history sciences engineering 
+colorado-school-of-mines,colorado,1.0,2.0,5.0,0.16,9.5,0.79,0.77,4.0,0.5,4.0,0.6,0.5,3.0,3.0,3.0,4,engineering 
+suny-stony-brook1,newyork,1.0,2.0,12.5,0.16,8.0,0.71,0.74,4.0,0.75,11.5,0.7,0.3,4.0,3.0,2.0,34,litterature sciences 
+william-paterson-college,newjersey,1.0,2.0,5.0,0.0,6.973684210526316,0.68,0.64,4.0,0.4,5.5,0.5,0.5,3.0,3.0,3.0,57,arts_and_history business_and_comptability litterature sciences communication_and_social 
+oregon-institute-of-technology0,oregon,1.0,2.0,5.0,0.16,6.973684210526316,0.66,0.62,4.0,0.5,4.0,0.9,0.8,3.0,2.0,3.0,42,business_and_comptability sciences engineering 
+ecole-nationale-superieure-de-telecommunication-de-paris,foreign,2.0,2.0,5.0,0.16,3.0,0.67,0.64,4.0,0.2,8.5,0.05,0.5,4.0,4.0,4.0,4,engineering 
+ecole-polytechnique,foreign,2.0,2.0,5.0,0.16,3.0,0.67,0.64,4.0,1.0,5.5,0.1,0.95,5.0,5.0,5.0,42,business_and_comptability sciences engineering 
+universite-saint-joseph,foreign,1.0,1.0,5.0,0.16,3.5,0.67,0.64,4.0,0.1,5.5,0.7,0.8,4.0,4.0,3.0,64,business_and_comptability sciences communication_and_social engineering 
+american-university-of-beirut,foreign,2.0,1.0,7.5,0.16,2.5,0.67,0.64,4.0,0.2,5.5,0.5,0.8,3.0,3.0,3.0,38,sciences communication_and_social engineering 
+polytechnic-institute-of-newyork0,defproppenn-0tduplicate,2.0,1.0,5.0,0.16,6.973684210526316,0.71,0.77,8.5,0.9,4.0,0.6,0.6,3.0,3.0,3.0,38,sciences communication_and_social engineering 
+penn-state0,pennsylvania,1.0,2.0,20.0,0.16,6.973684210526316,0.73,0.73,4.0,0.4,17.0,0.8,0.5,2.0,3.0,3.0,10,sciences engineering 
+university-of-oregon,oregon,2.0,2.0,12.5,0.16,6.973684210526316,0.68,0.66,4.0,0.3,5.5,0.8,0.7,3.0,4.0,4.0,65,arts_and_history litterature sciences sport 
+purdue,indiana,1.0,2.0,20.0,0.16,6.973684210526316,0.68,0.67,4.0,0.5,15.0,0.8,0.5,3.0,3.0,3.0,49,arts_and_history engineering 
+university-west-virginia,westvirginia,4.0,2.0,20.0,0.16,6.973684210526316,0.67,0.64,4.0,0.8,5.5,0.95,0.6,2.0,4.0,3.0,66,arts_and_history business_and_comptability sciences communication_and_social sport engineering 
+depaul-university,illinois,2.0,1.0,5.0,0.16,6.973684210526316,0.77,0.69,4.0,0.55,5.5,0.75,0.5,2.0,3.0,3.0,57,arts_and_history business_and_comptability litterature sciences communication_and_social 
+university-of-georgia,polytechnic-institute-of-newyorkoregon-university-of-michiganpenn-,1.0,2.0,20.0,0.16,6.973684210526316,0.7,0.68,4.0,0.6,8.5,0.8,0.5,3.0,4.0,4.0,57,arts_and_history business_and_comptability litterature sciences communication_and_social 
+brown,rhodeisland,2.0,1.0,5.0,0.16,6.0,0.89,0.83,10.0,0.4,11.5,0.2,0.5,5.0,4.0,5.0,3,arts_and_history sciences 
+cal-tech,california,1.0,1.0,5.0,0.16,5.5,0.93,1.0,10.0,0.7,4.0,0.2,0.9,5.0,1.0,3.0,4,engineering 
+case-western,ohio,2.0,1.0,5.0,0.16,5.0,0.79,0.83,10.0,0.65,4.0,0.85,0.35,3.0,2.0,3.0,5,arts_and_history business_and_comptability sciences engineering 
+cornell,newyork,4.0,1.0,12.5,0.16,4.0,0.86,0.83,10.0,0.5,17.0,0.3,0.5,5.0,3.0,2.0,9,architectures arts_and_history business_and_comptability sciences engineering 
+harvard,massachusetts,2.0,1.0,7.5,0.16,5.5,1.0,0.87,10.0,0.6,15.0,0.2,0.8,5.0,3.0,4.0,3,arts_and_history sciences 
+johns-hopkins,maryland,2.0,1.0,5.0,0.16,5.5,0.89,0.87,10.0,0.7,4.0,0.5,0.4,5.0,3.0,3.0,12,arts_and_history sciences communication_and_social engineering 
+mit,massachusetts,2.0,1.0,5.0,0.16,3.0,0.93,0.96,10.0,0.5,5.5,0.3,0.6,5.0,3.0,3.0,10,sciences engineering 
+newjersey-tech,newjersey,2.0,2.0,5.0,0.16,13.0,0.64,0.74,5.5,0.65,4.0,0.5,0.6,3.0,1.0,3.0,11,architectures engineering 
+pratt,newyork,2.0,1.0,5.0,0.16,4.0,0.61,0.61,5.5,0.8,4.0,0.5,0.6,3.0,1.0,2.0,15,architectures arts_and_history sciences engineering 
+rochester-tech,newyork,1.0,1.0,7.5,0.16,7.5,0.75,0.74,8.5,0.6,8.5,0.7,0.5,3.0,3.0,3.0,5,arts_and_history business_and_comptability sciences engineering 
+stanford,california,1.0,1.0,7.5,0.16,5.5,0.89,0.87,10.0,0.45,15.0,0.2,0.7,5.0,4.0,5.0,18,arts_and_history business_and_comptability litterature sciences engineering 
+university-of-california-berkeley,california,2.0,2.0,20.0,0.16,6.0,0.76,0.77,5.5,0.51,15.0,0.5,0.7,5.0,3.0,3.0,21,business_and_comptability litterature engineering 
+university-of-california-santa-cruz,california,1.0,2.0,7.5,0.16,9.5,0.75,0.71,5.5,0.65,4.0,0.7,0.6,4.0,3.0,5.0,23,arts_and_history sciences communication_and_social 
+university-of-oklahoma,oklahoma,1.0,2.0,12.5,0.16,10.5,0.67,0.64,4.0,0.3,11.5,0.9,0.7,3.0,3.0,3.0,3,arts_and_history sciences 
+university-of-pennsylvania,pennsylvania,2.0,1.0,7.5,0.16,5.5,0.86,0.83,10.0,0.6,11.5,0.4,0.5,5.0,4.0,3.0,5,arts_and_history business_and_comptability sciences engineering 
+university-of-san-francisco,california,2.0,1.0,5.0,0.16,7.0,0.64,0.67,8.5,0.7,4.0,0.6,0.6,3.0,3.0,4.0,24,arts_and_history business_and_comptability sciences 
+usc,california,2.0,1.0,12.5,0.16,9.5,0.68,0.67,10.0,0.6,11.5,0.7,0.5,4.0,4.0,3.0,22,business_and_comptability sciences communication_and_social 
+penn-state,pennsylvania,2.0,2.0,20.0,0.16,11.5,0.89,0.87,10.0,0.6,11.5,0.4,0.5,5.0,4.0,4.0,55,arts_and_history litterature sciences engineering 
+university-of-pittsburgh2,pennsylvania,2.0,2.0,20.0,0.16,5.5,0.69,0.68,5.5,0.6,17.0,0.75,0.55,4.0,4.0,5.0,45,business_and_comptability litterature sciences engineering 
+university-of-michigan,michigan,1.0,2.0,20.0,0.03,8.0,0.77,0.77,5.5,0.6,15.0,0.6,0.5,4.0,2.0,3.0,22,business_and_comptability sciences communication_and_social 
+northeastern,massachusetts,2.0,1.0,20.0,0.0,11.5,0.67,0.64,5.5,0.55,8.5,0.8,1.0,3.0,2.0,3.0,31,business_and_comptability communication_and_social 
+rice,texas,1.0,1.0,5.0,0.0,5.0,0.89,0.86,5.5,0.8,4.0,0.35,0.55,5.0,2.0,3.0,67,architectures communication_and_social engineering 
+notre-dame,indiana,2.0,1.0,17.5,0.01,6.5,0.81,0.82,5.5,0.5,8.5,0.35,0.6,5.0,3.0,3.0,68,communication_and_social engineering 
+newengland-college,newhampshire,3.0,1.0,12.5,0.08,7.0,0.84,0.76,10.0,0.4,4.0,0.5,0.95,4.0,3.0,4.0,10,sciences engineering 
+clark-university,massachusetts,4.0,1.0,5.0,0.16,7.0,0.79,0.74,10.0,0.5,4.0,0.6,0.35,4.0,3.0,3.0,52,arts_and_history communication_and_social 
+university-of-hartford,connecticut,1.0,1.0,7.5,0.16,7.0,0.64,0.63,10.0,0.4,5.5,0.75,0.35,3.0,3.0,3.0,7,arts_and_history 
+lewis-and-clark,oregon,4.0,1.0,5.0,0.16,6.973684210526316,0.76,0.71,8.5,0.4,5.5,0.7,0.4,3.0,2.0,4.0,29,sciences communication_and_social 
+bennington,vermont,1.0,1.0,5.0,0.16,5.0,0.67,0.64,8.5,0.4,4.0,0.7,0.3,3.0,3.0,3.1649122807017545,3,arts_and_history sciences 
+rice0,texas,1.0,1.0,5.0,0.16,5.0,0.93,0.83,5.5,0.7,4.0,0.4,0.3,5.0,4.0,3.1649122807017545,45,business_and_comptability litterature sciences engineering 
+smith,massachusetts,1.0,1.0,5.0,0.16,5.5,0.87,0.77,8.5,0.3,4.0,0.5,0.2,4.0,3.0,3.1649122807017545,58,litterature sciences communication_and_social 
+university-of-the-south,tennessee,1.0,1.0,5.0,0.16,5.5,0.79,0.77,5.5,0.5,4.0,0.6,0.3,4.0,3.0,3.1649122807017545,39,arts_and_history litterature 
+polytechnic-institute-of-newyork,newyork,2.0,1.0,5.0,0.16,4.5,0.86,0.77,10.0,0.8,8.5,0.75,0.45,3.0,2.0,2.0,5,arts_and_history business_and_comptability sciences engineering 
+tufts,massachusetts,1.0,1.0,7.5,0.16,7.5,0.86,0.77,10.0,0.45,11.5,0.35,0.35,4.0,3.0,3.0,28,arts_and_history sciences engineering 
+university-of-virginia,virginia,4.0,2.0,12.5,0.16,5.5,0.84,0.8,5.5,0.3,11.5,0.4,0.2,4.0,4.0,4.0,69,architectures arts_and_history business_and_comptability litterature sciences engineering 
+washington-and-lee,virginia,3.0,1.0,5.0,0.0,5.5,0.79,0.76,8.5,0.3,4.0,0.6,0.3,4.0,3.0,3.0,57,arts_and_history business_and_comptability litterature sciences communication_and_social 
+university-of-rochester,newyork,2.0,1.0,7.5,0.16,5.5,0.79,0.71,10.0,0.7,5.5,0.8,0.3,4.0,3.0,3.0,7,arts_and_history 
+sam-houston-state-university,texas,1.0,2.0,12.5,0.16,15.5,0.57,0.51,5.5,0.3,4.0,0.8,0.7,2.0,2.0,2.0,1,business_and_comptability litterature sciences 
+manhattanville-college,newyork,1.0,1.0,5.0,0.16,6.0,0.71,0.68,10.0,0.6,4.0,0.6,0.4,4.0,3.0,4.0,23,arts_and_history sciences communication_and_social 
+suny-purchase,newyork,1.0,2.0,5.0,0.16,9.0,0.75,0.67,5.5,0.05,4.0,0.4,0.4,3.0,3.0,3.0,7,arts_and_history 
+brandeis,massachusetts,1.0,1.0,5.0,0.16,5.5,0.83,0.81,10.0,0.4,4.0,0.6,0.45,4.0,3.0,4.0,27,arts_and_history business_and_comptability litterature sciences 
+george-washington,district-of-columbia,2.0,1.0,5.0,0.16,7.5,0.76,0.72,10.0,0.45,5.5,0.75,0.3,3.0,4.0,3.0,22,business_and_comptability sciences communication_and_social 
+oral-roberts-university,oklahoma,1.0,1.0,5.0,0.0,6.0,0.66,0.63,4.0,0.7,4.0,0.65,0.75,4.0,2.0,3.0,57,arts_and_history business_and_comptability litterature sciences communication_and_social 
+university-of-tulsa,oklahoma,2.0,1.0,7.5,0.01,8.5,0.67,0.67,4.0,0.75,4.0,0.85,0.65,4.0,4.0,4.0,70,architectures arts_and_history business_and_comptability litterature sciences communication_and_social 
+connecticut-college,connecticut,4.0,1.0,5.0,0.16,5.5,0.79,0.74,10.0,0.3,4.0,0.4,0.4,4.0,3.0,4.0,7,arts_and_history 
+lehigh-university,pennsylvania,4.0,1.0,7.5,0.16,5.5,0.79,0.83,8.5,0.45,5.5,0.5,0.4,4.0,4.0,2.0,71,sport engineering 
+oregon-state,oregon,1.0,2.0,17.5,0.22,9.0,0.67,0.64,5.5,0.65,5.5,0.9,0.7,3.0,4.0,2.0,57,arts_and_history business_and_comptability litterature sciences communication_and_social 
